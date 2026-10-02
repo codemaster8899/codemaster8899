@@ -55,8 +55,6 @@ I build web products from the interface through the API — media platforms, ope
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C9A1C,45:0A6B0A,100:004700&height=110&section=footer" width="100%" alt="" />
-
 [All repositories](https://github.com/codemaster8899?tab=repositories)
 
 </div>

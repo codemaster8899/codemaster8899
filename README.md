@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=E8FFE8&background=004700&center=true&vCenter=true&width=520&height=64&lines=React+%C2%B7+Vue+%C2%B7+Node.js;0++++++1++++++0++++++1" alt="React, Vue, and Node.js" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=1C9A1C&center=true&vCenter=true&width=720&height=70&lines=Building+with+React%2C+Vue%2C+and+Node.js;Media%2C+dashboards%2C+commerce%2C+and+AI+tools;From+the+interface+through+the+API" alt="Building with React, Vue, and Node.js" />
 
 <br>
 

@@ -4,13 +4,13 @@
 
 
 <h2>About Me</h2>
-<p>I’m a Senior Software Developer focused on building scalable, high-performance web applications with React, Vue, and Node.js. I work across the full stack, from designing intuitive interfaces and reusable component systems to building robust APIs, data-driven services, and production-ready architectures.</p><p><br></p><p>I enjoy solving complex engineering problems, improving application performance, and turning product requirements into reliable, maintainable software. I’m also exploring AI-powered development, automation, and modern tooling to build smarter products and more efficient engineering workflows.<br><br></p><p><strong>Frontend Architecture</strong><br>
+<p>I’m a Senior Software Developer focused on building scalable, high-performance web applications with React, Vue, and Node.js. I work across the full stack, from designing intuitive interfaces and reusable component systems to building robust APIs, data-driven services, and production-ready architectures.</p><p><br></p><p>I enjoy solving complex engineering problems, improving application performance, and turning product requirements into reliable, maintainable software. I’m also exploring AI-powered development, automation, and modern tooling to build smarter products and more efficient engineering workflows.<br><br></p><p><strong>🖥️ Frontend Architecture</strong><br>
 React · Next.js · Vue · Nuxt · TypeScript · Design Systems</p>
 
-<p><strong>Backend &amp; APIs</strong><br>
+<p><strong>⚙️ Backend &amp; APIs</strong><br>
 Node.js · Express · REST · GraphQL · Authentication · Microservices</p>
 
-<p><strong>AI &amp; Modern Engineering</strong><br>
+<p><strong>🤖 AI &amp; Modern Engineering</strong><br>
 AI Integrations · Automation · Developer Tools · Cloud · CI/CD</p>
 
 
@@ -90,7 +90,6 @@ AI Integrations · Automation · Developer Tools · Cloud · CI/CD</p>
   <img src="https://skillicons.dev/icons?i=yarn" alt="Yarn" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=jira" alt="Jira" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
 ### Databases:

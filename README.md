@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=110&section=header" width="100%" alt="" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Developer building a product" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=70&lines=Building+with+React%2C+Vue%2C+and+Node.js;Media%2C+dashboards%2C+commerce%2C+and+AI+tools;From+the+interface+through+the+API" alt="Building with React, Vue, and Node.js" />
+
 # Senior Software Developer
 
 **React · Vue · Node.js**
@@ -22,13 +28,31 @@ I build web products from the interface through the API — media platforms, ope
 
 <div align="center">
 
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,php,dotnet,bash&perline=8" alt="JavaScript, TypeScript, HTML, CSS, Python, PHP, .NET, Bash" />
+
 **Interface**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,nuxtjs,ts,tailwind,redux,pinia&perline=8" alt="React, Next.js, Vue, Nuxt, TypeScript, Tailwind, Redux, Pinia" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,nuxtjs,astro,svelte,gatsby,remix,solidjs&perline=9" alt="React, Next.js, Vue, Nuxt, Astro, Svelte, Gatsby, Remix, Solid" />
+
+<img src="https://skillicons.dev/icons?i=redux,pinia,tailwind,sass,bootstrap,materialui,styledcomponents,jquery,htmx&perline=9" alt="Redux, Pinia, Tailwind, Sass, Bootstrap, Material UI, Styled Components, jQuery, htmx" />
 
 **Services**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,js,vite,git,github&perline=8" alt="Node.js, Express, MongoDB, Redis, JavaScript, Vite, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,vite,webpack,babel,threejs,electron&perline=9" alt="Node.js, Express, NestJS, GraphQL, Vite, Webpack, Babel, Three.js, Electron" />
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,prisma,sequelize,supabase,firebase&perline=9" alt="MongoDB, MySQL, PostgreSQL, Redis, SQLite, Prisma, Sequelize, Supabase, Firebase" />
+
+**Platform**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,ubuntu,aws,gcp,azure,vercel&perline=9" alt="Docker, Kubernetes, Nginx, Linux, Ubuntu, AWS, GCP, Azure, Vercel" />
+
+<img src="https://skillicons.dev/icons?i=heroku,netlify,cloudflare,rabbitmq,sentry,git,github,gitlab,githubactions&perline=9" alt="Heroku, Netlify, Cloudflare, RabbitMQ, Sentry, Git, GitHub, GitLab, GitHub Actions" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,webstorm,npm,yarn,pnpm,bun,postman,figma,jest,vitest,selenium&perline=11" alt="VS Code, WebStorm, npm, Yarn, pnpm, Bun, Postman, Figma, Jest, Vitest, Selenium" />
 
 </div>
 
@@ -45,6 +69,8 @@ I build web products from the interface through the API — media platforms, ope
 | [Facility management](https://github.com/codemaster8899/facility-management-modules) | Next.js, Zustand | Operations UI: working hours, data tables, and WebSocket-backed state |
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%" alt="" />
 
 The same approach shows up in healthcare auth and payments, car-service leads, data-portal UI, and platform health notifications.
 

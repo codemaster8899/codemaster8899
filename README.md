@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=110&section=header" width="100%" alt="" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Developer building a product" />
+<img src="https://media.giphy.com/media/pbIavlMZE7TkcVriMM/giphy.gif" width="280" alt="Typing on a laptop" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=70&lines=Building+with+React%2C+Vue%2C+and+Node.js;Media%2C+dashboards%2C+commerce%2C+and+AI+tools;From+the+interface+through+the+API" alt="Building with React, Vue, and Node.js" />
 

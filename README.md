@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004700,28:0A6B0A,55:1C9A1C,82:0A6B0A,100:004700&height=150&section=header" width="100%" alt="" />
 
-<br>
-
-<img src="https://media.giphy.com/media/pbIavlMZE7TkcVriMM/giphy.gif" width="280" alt="Typing on a laptop" />
-
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=1C9A1C&center=true&vCenter=true&width=720&height=70&lines=Building+with+React%2C+Vue%2C+and+Node.js;Media%2C+dashboards%2C+commerce%2C+and+AI+tools;From+the+interface+through+the+API" alt="Building with React, Vue, and Node.js" />
 
@@ -62,23 +56,9 @@ I build web products from the interface through the API — media platforms, ope
 
 </div>
 
-## Selected work
-
-| Project | Stack | What it covers |
-| --- | --- | --- |
-| [Channel 21 TV](https://github.com/codemaster8899/channel21-tv-web) | React, Redux, Tailwind | Programs, shows, films, schedule, and live streaming. [Live site](https://21-front-nu.vercel.app) |
-| [Channel 21 API](https://github.com/codemaster8899/channel21-tv-api) | Node.js, Express, MongoDB | Programs, schedule, faces, live links, and admin. [Live API](https://21-back.vercel.app) |
-| [Momants Dashboard](https://github.com/codemaster8899/momants-dashboard) | Next.js, TypeScript, Zustand | Operator dashboard for AI messaging: training, conversations, campaigns, templates, and analytics |
-| [Conversational AI modules](https://github.com/codemaster8899/conversational-ai-agent-modules) | Vue, Pinia, TypeScript | Agent forms, prompts, uploads, stores, and end-to-end tests |
-| [Nordbucket storefront](https://github.com/codemaster8899/nordbucket-storefront-modules) | Nuxt, Vue, Node.js | Cart, checkout, stores, and API modules for a commerce storefront |
-| [VET7.Well](https://github.com/codemaster8899/vet7well-frontend) | Vue 3, Quasar, Pinia | Auth, dashboard, and an API-driven veterinary wellness UI |
-| [Facility management](https://github.com/codemaster8899/facility-management-modules) | Next.js, Zustand | Operations UI: working hours, data tables, and WebSocket-backed state |
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C9A1C,45:0A6B0A,100:004700&height=110&section=footer" width="100%" alt="" />
-
-The same approach shows up in healthcare auth and payments, car-service leads, data-portal UI, and platform health notifications.
 
 [All repositories](https://github.com/codemaster8899?tab=repositories)
 

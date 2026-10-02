@@ -36,43 +36,7 @@ I build web products from the interface through the API — media platforms, ope
 
 **Languages**
 
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <img src="assets/languages/javascript.gif" width="130" height="130" alt="JavaScript" />
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="130">
-      <img src="assets/languages/typescript.gif" width="130" height="130" alt="TypeScript" />
-      <br><b>TypeScript</b>
-    </td>
-    <td align="center" width="130">
-      <img src="assets/languages/html.gif" width="130" height="130" alt="HTML" />
-      <br><b>HTML</b>
-    </td>
-    <td align="center" width="130">
-      <img src="assets/languages/css.gif" width="130" height="130" alt="CSS" />
-      <br><b>CSS</b>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <img src="assets/languages/python.gif" width="130" height="130" alt="Python" />
-      <br><b>Python</b>
-    </td>
-    <td align="center" width="130">
-      <img src="assets/languages/php.gif" width="130" height="130" alt="PHP" />
-      <br><b>PHP</b>
-    </td>
-    <td align="center" width="130">
-      <img src="assets/languages/csharp.gif" width="130" height="130" alt="C#" />
-      <br><b>C#</b>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,php,dotnet,bash&perline=8" alt="JavaScript, TypeScript, HTML, CSS, Python, PHP, .NET, Bash" />
 
 **Interface**
 

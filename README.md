@@ -4,8 +4,15 @@
 
 
 <h2>About Me</h2>
-<p>I’m a Senior Software Developer focused on building scalable, high-performance web applications with React, Vue, and Node.js. I work across the full stack, from designing intuitive interfaces and reusable component systems to building robust APIs, data-driven services, and production-ready architectures.</p><p><br></p><p>I enjoy solving complex engineering problems, improving application performance, and turning product requirements into reliable, maintainable software. I’m also exploring AI-powered development, automation, and modern tooling to build smarter products and more efficient engineering workflows.<br><br></p><ul><li><i>Frontend Architecture</i></li><li>React · Next.js · Vue · Nuxt · TypeScript · Design Systems</li><li><br></li><li><i>Backend &amp; APIs</i></li><li>Node.js · Express · REST · GraphQL · Authentication · Microservices</li><li><br></li><li><i>AI &amp; Modern Engineering</i></li><li>AI Integrations · Automation · Developer Tools · Cloud · CI/CD</li><li><br></li>
-</ul>
+<p>I’m a Senior Software Developer focused on building scalable, high-performance web applications with React, Vue, and Node.js. I work across the full stack, from designing intuitive interfaces and reusable component systems to building robust APIs, data-driven services, and production-ready architectures.</p><p><br></p><p>I enjoy solving complex engineering problems, improving application performance, and turning product requirements into reliable, maintainable software. I’m also exploring AI-powered development, automation, and modern tooling to build smarter products and more efficient engineering workflows.<br><br></p><p><strong>Frontend Architecture</strong><br>
+React · Next.js · Vue · Nuxt · TypeScript · Design Systems</p>
+
+<p><strong>Backend &amp; APIs</strong><br>
+Node.js · Express · REST · GraphQL · Authentication · Microservices</p>
+
+<p><strong>AI &amp; Modern Engineering</strong><br>
+AI Integrations · Automation · Developer Tools · Cloud · CI/CD</p>
+
 
 
 <p align="center">

@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=110&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004700,28:0A6B0A,55:1C9A1C,82:0A6B0A,100:004700&height=150&section=header" width="100%" alt="" />
+
+<br>
 
 <img src="https://media.giphy.com/media/pbIavlMZE7TkcVriMM/giphy.gif" width="280" alt="Typing on a laptop" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=70&lines=Building+with+React%2C+Vue%2C+and+Node.js;Media%2C+dashboards%2C+commerce%2C+and+AI+tools;From+the+interface+through+the+API" alt="Building with React, Vue, and Node.js" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=E8FFE8&background=004700&center=true&vCenter=true&width=520&height=64&lines=React+%C2%B7+Vue+%C2%B7+Node.js;0++++++1++++++0++++++1" alt="React, Vue, and Node.js" />
+
+<br>
 
 # Senior Software Developer
 
@@ -70,7 +76,7 @@ I build web products from the interface through the API — media platforms, ope
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C9A1C,45:0A6B0A,100:004700&height=110&section=footer" width="100%" alt="" />
 
 The same approach shows up in healthcare auth and payments, car-service leads, data-portal UI, and platform health notifications.
 

@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=1C9A1C&center=true&vCenter=true&width=720&height=70&lines=Building+with+React%2C+Vue%2C+and+Node.js;Media%2C+dashboards%2C+commerce%2C+and+AI+tools;From+the+interface+through+the+API" alt="Building with React, Vue, and Node.js" />
 
-<br>
-
-# Senior Software Developer
 
 **React · Vue · Node.js**
 

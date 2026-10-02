@@ -38,20 +38,20 @@ I build web products from the interface through the API — media platforms, ope
 
 <table align="center">
   <tr>
-    <td align="center" width="150">
-      <img src="assets/languages/javascript.gif" width="120" alt="JavaScript" />
+    <td align="center" width="130">
+      <img src="assets/languages/javascript.gif" width="130" height="130" alt="JavaScript" />
       <br><b>JavaScript</b>
     </td>
-    <td align="center" width="150">
-      <img src="assets/languages/typescript.jpg" width="120" alt="TypeScript" />
+    <td align="center" width="130">
+      <img src="assets/languages/typescript.gif" width="130" height="130" alt="TypeScript" />
       <br><b>TypeScript</b>
     </td>
-    <td align="center" width="150">
-      <img src="assets/languages/html.gif" width="120" alt="HTML" />
+    <td align="center" width="130">
+      <img src="assets/languages/html.gif" width="130" height="130" alt="HTML" />
       <br><b>HTML</b>
     </td>
-    <td align="center" width="150">
-      <img src="assets/languages/css.gif" width="120" alt="CSS" />
+    <td align="center" width="130">
+      <img src="assets/languages/css.gif" width="130" height="130" alt="CSS" />
       <br><b>CSS</b>
     </td>
   </tr>
@@ -59,16 +59,16 @@ I build web products from the interface through the API — media platforms, ope
 
 <table align="center">
   <tr>
-    <td align="center" width="150">
-      <img src="assets/languages/python.gif" width="120" alt="Python" />
+    <td align="center" width="130">
+      <img src="assets/languages/python.gif" width="130" height="130" alt="Python" />
       <br><b>Python</b>
     </td>
-    <td align="center" width="150">
-      <img src="assets/languages/php.gif" width="120" alt="PHP" />
+    <td align="center" width="130">
+      <img src="assets/languages/php.gif" width="130" height="130" alt="PHP" />
       <br><b>PHP</b>
     </td>
-    <td align="center" width="150">
-      <img src="assets/languages/csharp.gif" width="120" alt="C#" />
+    <td align="center" width="130">
+      <img src="assets/languages/csharp.gif" width="130" height="130" alt="C#" />
       <br><b>C#</b>
     </td>
   </tr>
